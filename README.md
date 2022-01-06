@@ -13,7 +13,7 @@ The bridge program is an online, flexible intensive study of the core subjects i
   <li>Fundamentals of System Hardware</li>
   <li>Number Systems</li>
   <li>Compilation and Execution Process</li>
-  <li>Data types and Expressions</li>
+  <li>Data Types and Expressions</li>
   <li>Branching Statements</li>
   <li>Iterative Statements</li>
   <li>Propositional Logic</li>
@@ -43,6 +43,6 @@ The bridge program is an online, flexible intensive study of the core subjects i
   <li>Memory Management</li>
   <li>Introduction to Networking</li>
   <li>Overview of OSI/RM</li>
-  <li>Physical layout of Networks</li>
+  <li>Physical Layout of Networks</li>
   <li>Application Layer, Network Layer and Transport Layer</li>
 <ul>
