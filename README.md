@@ -1,5 +1,5 @@
 # NYU CS Tandon Bridge Program 
-![NYU Tandon School of Engineering Logo](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![NYU Tandon School of Engineering Logo](/nyu_logo.jpg "NYU Tandon School of Engineering")
 
 Want to know more about my background and/or collaborate? [Ethan's LinkedIn](https://www.linkedin.com/in/ethantran8714/)
 
